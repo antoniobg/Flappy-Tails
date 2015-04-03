@@ -1,5 +1,4 @@
 require 'gosu'
-require 'defstruct'
 require_relative 'game_state'
 require_relative 'game_vector'
 require_relative 'obstacle'
