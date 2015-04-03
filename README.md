@@ -15,5 +15,5 @@ Escape -> Quit
 ```
 
 ## App for Mac
-Download from [Google Drive](https://drive.google.com/file/d/0BzLaFDNGiNf7YTZzaUZQNjNZRUk/view?usp=sharing)
+Download from [Google Drive](https://docs.google.com/uc?authuser=0&id=0BzLaFDNGiNf7YTZzaUZQNjNZRUk&export=download)
 
